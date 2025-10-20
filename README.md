@@ -7,4 +7,4 @@
 * tweaks
     1. Size - Scaling Factor: 0.80
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5c2588bf-715b-4f2d-8abb-a93d98f18c22" />
+<img width="1920" height="1084" alt="image" src="https://github.com/user-attachments/assets/70fd11df-0c74-416f-a10e-56153080b29c" />
