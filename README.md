@@ -6,5 +6,7 @@
     1. Window List
 * tweaks
     1. Size - Scaling Factor: 0.80
-
+* conky 
+    1. synced with vimwiki for note my todos/plan
+    
 <img width="1920" height="1084" alt="image" src="https://github.com/user-attachments/assets/70fd11df-0c74-416f-a10e-56153080b29c" />
