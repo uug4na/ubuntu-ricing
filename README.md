@@ -8,5 +8,6 @@
     1. Size - Scaling Factor: 0.80
 * conky 
     1. synced with vimwiki for note my todos/plan
-    
-<img width="1920" height="1084" alt="image" src="https://github.com/user-attachments/assets/70fd11df-0c74-416f-a10e-56153080b29c" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7041393c-0d9e-4d74-bd30-fa1eb08e27fd" />
+
